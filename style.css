@@ -1,0 +1,54 @@
+
+.my_heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.my_heading h3
+{
+    display: inline;
+}
+
+.my_heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+#mario
+{
+    width: 100%;
+}
+
+#start_game, #status
+{
+    font-size: 25px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.INSTRUCIONS
+{
+    width: 45%;
+    display: inline-block;
+}
+
+.footer
+{
+    width: 100%;
+    background-color: aquamarine;
+    position: fixed;
+    bottom: 0px;
+}
+
+video
+{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
